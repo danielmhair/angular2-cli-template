@@ -16,6 +16,7 @@
 ## Why I use this template with Angular CLI
 * `Angular 2.0 R3` and strives to keep up with the latest releases of Angular 2.0
 * `Router v3.0` and has examples on using general and dynamic routing.
+* Uses a template back-end server with `NodeJS`
 * `Bootstrap v4.0`
 * `Material 2` - Using Bootstrap mostly until Material 2 is officially released
 * `Android's Roboto Font` as defined by [Google Material](https://material.google.com/style/typography.html)
