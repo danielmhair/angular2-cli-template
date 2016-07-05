@@ -1,5 +1,7 @@
 # Tasks to create Angular 2 Template using Angular CLI for all projects
 
+## NOTE: This Project is under development. It is not ready to use with Angular's CLI
+
 - [ ] Create Todo Service & Component
 - [ ] [Convert to Angular 2 Router 3.0.0](https://medium.com/@blacksonic86/upgrading-to-the-new-angular-2-router-255605d9da26#.2inp2afk8)
 - [ ] Create Todo-Details that will show multiple routing at `routes.ts`
@@ -9,7 +11,17 @@
 - [ ] Add Material 2
 - [ ] Investigate how to convert this into a template when calling `ng new my-app` and it asks to use a `git` template.
 
-# Angular2NodeTemplate
+# Angular 2 Template for Angular CLI
+
+## Why I use this template with Angular CLI
+* `Angular 2.0 R3` and strives to keep up with the latest releases of Angular 2.0
+* `Router v3.0` and has examples on using general and dynamic routing.
+* `Bootstrap v4.0`
+* `Material 2` - Using Bootstrap mostly until Material 2 is officially released
+* `Android's Roboto Font` as defined by [Google Material](https://material.google.com/style/typography.html)
+* Icons to use already - `Ionicons`, `Glyphicons`, `Font-Awesome`
+* Example of using `HTTP` Service through a `TodoService` that talks to MongoDB through NodeJS
+* Example on how to use the `TodoService` in a component and display the data
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
