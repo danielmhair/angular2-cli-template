@@ -1,5 +1,7 @@
-import { TodoService } from './todo-service/todo-service.service';
+import { TodoService } from './todo-service';
+import { Todo } from './Todo';
 
 export {
-  TodoService
+  TodoService,
+  Todo
 };

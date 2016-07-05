@@ -1,17 +1,22 @@
-# Tasks Remaining
+# Angular 2 Template for Angular CLI
 
-## NOTE: This Project is under development. It is not ready to use with Angular's CLI
+## Tasks Remaining
+
+### NOTE: This Project is under development. It is not ready to use with Angular's CLI
 
 - [ ] Create Todo Service & Component
 - [ ] [Convert to Angular 2 Router 3.0.0](https://medium.com/@blacksonic86/upgrading-to-the-new-angular-2-router-255605d9da26#.2inp2afk8)
 - [ ] Create Todo-Details that will show multiple routing at `routes.ts`
-- [ ] Add Android's Fonts
+- [ ] Add bootstrap-material-design (Bootstrap Theme according to Google Material Design)
+- [ ] Add Android's Fonts (Should be added with bootstrap material design
 - [ ] Add Ionicons, Glyphicons, and Font-Awesome
-- [ ] Add Bootstrap 4.0
-- [ ] Add Material 2
+- [ ] Ensure that Material 2 can be used in a component
 - [ ] Investigate how to convert this into a template when calling `ng new my-app` and it asks to use a `git` template.
 
-# Angular 2 Template for Angular CLI
+## Completed Tasks
+
+- [x] Add Material 2
+- [x] Ensure that Codelyzer is in the project
 
 ## Why I use this template with Angular CLI
 * `Angular 2.0 R3` and strives to keep up with the latest releases of Angular 2.0
