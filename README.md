@@ -1,4 +1,4 @@
-# Tasks to create Angular 2 Template using Angular CLI for all projects
+# Tasks Remaining
 
 ## NOTE: This Project is under development. It is not ready to use with Angular's CLI
 
